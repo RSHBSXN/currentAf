@@ -1,0 +1,11 @@
+# Layer 1: Ingestion
+requests==2.32.3
+newspaper4k==0.9.3
+
+# Layer 3: Cognitive Engine
+google-genai
+pydantic>=2.10.6
+
+# Environment & Configuration
+python-dotenv==1.0.1
+notion-client
