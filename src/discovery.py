@@ -6,6 +6,9 @@ from google import genai
 from google.genai import types
 from pydantic import BaseModel, Field
 
+import datetime
+from dateutil import parser
+
 # High-yield UPSC feeds
 UPSC_FEEDS = {
     "The Hindu - National": "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -45,8 +48,26 @@ def fetch_discovered_urls(limit_per_feed: int = 5) -> list[dict]:
                 url = getattr(entry, 'link', '').strip()
                 title = getattr(entry, 'title', 'Untitled').strip()
                 
+                # --- NEW: Exact Publish Date Extraction ---
+                raw_date = entry.get('published') or entry.get('updated')
+                if raw_date:
+                    try:
+                        parsed_date = parser.parse(raw_date).strftime('%Y-%m-%d')
+                    except Exception:
+                        # Fallback if the site uses a weird custom date string
+                        parsed_date = datetime.datetime.now().strftime('%Y-%m-%d')
+                else:
+                    # Fallback to today if the site hides the date entirely
+                    parsed_date = datetime.datetime.now().strftime('%Y-%m-%d')
+                # ------------------------------------------
+                
                 if url:
-                    discovered_articles.append({"title": title, "url": url, "source": feed_name})
+                    discovered_articles.append({
+                        "title": title, 
+                        "url": url, 
+                        "source": feed_name,
+                        "publish_date": parsed_date  # <--- Date is now locked in
+                    })
                     
         except Exception as e:
             print(f"❌ [Layer 0] Failed to fetch '{feed_name}': {e}")

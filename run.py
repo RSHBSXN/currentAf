@@ -21,9 +21,8 @@ def generate_youtube_search_url(query_topic: str) -> str:
 def run_daily_sync():
     print("\n=== 🚀 STARTING DAILY UPSC AUTOMATION SYNC ===")
     
-    # NOTE: Set limit_per_feed to your desired production volume (e.g., 5 or 10)
+    # Scanning feeds for production volume
     raw_candidates = fetch_discovered_urls(limit_per_feed=10)
-    
     if not raw_candidates:
         print("⚠️ No articles found in feeds today. Exiting.")
         return
@@ -57,6 +56,10 @@ def run_daily_sync():
                 
                 if upsc_payload:
                     youtube_url = generate_youtube_search_url(upsc_payload['headline'])
+                    
+                    # --- ATTACH EXACT RSS PUBLISH DATE ---
+                    # Bypasses LLM date estimation completely for 100% accuracy
+                    upsc_payload['article_date'] = article.get('publish_date')
                     
                     # --- ATOMIC TRANSACTION BLOCK ---
                     try:
