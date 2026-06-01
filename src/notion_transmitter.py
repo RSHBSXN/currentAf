@@ -50,7 +50,10 @@ def transmit_to_notion(payload: dict, source_url: str, youtube_url: str):
                 "Name": {"title": [{"text": {"content": payload['headline']}}]},
                 "GS Paper": {"select": {"name": payload['gs_paper']}},
                 "Subject": {"select": {"name": payload['subject']}},
-                "Source URL": {"url": source_url}
+                "Source URL": {"url": source_url},
+                "Article Date": {
+                    "date": {"start": payload['article_date']}
+                }
             },
             children=blocks
         )

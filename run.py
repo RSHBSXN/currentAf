@@ -1,17 +1,16 @@
 import os
-import json
 import time
 import urllib.parse
 from dotenv import load_dotenv
-from src.notion_transmitter import transmit_to_notion
-from src.state import is_processed, mark_processed
 
+# Load environment variables FIRST
 load_dotenv()
 
 from src.discovery import fetch_discovered_urls, deduplicate_with_llm
-from src.state import is_processed
+from src.state import is_processed, mark_processed
 from src.ingestion import extract_clean_text
 from src.analyzer import analyze_article
+from src.notion_transmitter import transmit_to_notion
 
 def generate_youtube_search_url(query_topic: str) -> str:
     """Constructs a direct link to YouTube search results for the topic."""
@@ -19,46 +18,83 @@ def generate_youtube_search_url(query_topic: str) -> str:
     encoded_query = urllib.parse.quote_plus(search_term)
     return f"https://www.youtube.com/results?search_query={encoded_query}"
 
-def run_presentation_test():
-    print("=== STARTING LOCAL PRESENTATION TEST (LAYER 0 to 3.5) ===")
+def run_daily_sync():
+    print("\n=== 🚀 STARTING DAILY UPSC AUTOMATION SYNC ===")
     
-    raw_candidates = fetch_discovered_urls(limit_per_feed=3)
+    # NOTE: Set limit_per_feed to your desired production volume (e.g., 5 or 10)
+    raw_candidates = fetch_discovered_urls(limit_per_feed=10)
+    
     if not raw_candidates:
+        print("⚠️ No articles found in feeds today. Exiting.")
         return
         
+    print(f"📊 Discovered {len(raw_candidates)} raw candidate URLs.")
     clustered_candidates = deduplicate_with_llm(raw_candidates)
+    print(f"✂️ Reduced to {len(clustered_candidates)} unique events.")
+
+    # Tracking for the final log summary
+    success_count = 0
+    error_count = 0
+    skip_count = 0
 
     for article in clustered_candidates:
         url = article["url"]
         
         if is_processed(url):
-            print(f"⏭️ [State] Skipping: {article['title']}")
+            print(f"⏭️ [State] Skipping (Already Processed): {article['title']}")
+            skip_count += 1
             continue
             
         print(f"\n🔥 [Pipeline] Processing: {article['title']}")
         
-        extracted_data = extract_clean_text(url)
-        
-        if extracted_data and extracted_data.get("text"):
-            # Layer 3: Pydantic-enforced analysis via Gemini 2.5 Pro
-            upsc_payload = analyze_article(extracted_data["text"], url)
+        try:
+            # Layer 1: Extraction
+            extracted_data = extract_clean_text(url)
             
-            if upsc_payload:
-                # Layer 3.5: Instant Python URL bridge
-                youtube_url = generate_youtube_search_url(upsc_payload['headline'])
+            if extracted_data and extracted_data.get("text"):
+                # Layer 2: Analysis via Gemini
+                upsc_payload = analyze_article(extracted_data["text"], url)
                 
-                final_payload = {
-                    "source_url": url,
-                    "youtube_search": youtube_url,
-                    "analysis": upsc_payload
-                }
-                transmit_to_notion(upsc_payload, url, youtube_url)
-                mark_processed(article['url'])
-                    # TRANSMIT!
+                if upsc_payload:
+                    youtube_url = generate_youtube_search_url(upsc_payload['headline'])
                     
+                    # --- ATOMIC TRANSACTION BLOCK ---
+                    try:
+                        # 1. Attempt to transmit to Notion
+                        transmit_to_notion(upsc_payload, url, youtube_url)
+                        
+                        # 2. ONLY if no errors, mark as processed
+                        mark_processed(url)
+                        print(f"✅ Success & Logged: {upsc_payload['headline']}")
+                        success_count += 1
+                        
+                    except Exception as e:
+                        print(f"❌ Transmission failed for {url}: {e}")
+                        error_count += 1
+                    # --------------------------------
+                    
+                    # Sleep to respect rate limits (Notion & LLM)
+                    time.sleep(15)
+                else:
+                    print(f"⚠️ Analysis returned empty payload for {url}.")
+                    error_count += 1
+            else:
+                print(f"⚠️ Failed to extract readable text for {url}.")
+                error_count += 1
                 
-                # Sleep to respect rate limits
-                time.sleep(15)
+        except Exception as e:
+            # Catches unexpected errors (like bad HTML parsing) so the loop doesn't break
+            print(f"❌ Unexpected error processing {url}: {e}")
+            error_count += 1
+
+    # Final Execution Summary
+    print("\n=== 🏁 DAILY SYNC COMPLETE ===")
+    print(f"✅ Succeeded: {success_count} | ⏭️ Skipped: {skip_count} | ❌ Errors: {error_count}\n")
 
 if __name__ == "__main__":
-    run_presentation_test()
+    try:
+        run_daily_sync()
+    except KeyboardInterrupt:
+        print("\n🛑 Sync forcefully interrupted by user (Ctrl+C).")
+    except Exception as e:
+        print(f"\n💥 CRITICAL PIPELINE FAILURE: {e}")

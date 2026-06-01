@@ -8,7 +8,7 @@ def analyze_article(raw_text: str, source_url: str) -> dict:
     Ingests raw news article text and uses Gemini 2.5 Pro to extract
     a highly structured, UPSC-aligned study payload based on the Pydantic schema.
     """
-    print(f"🧠 [Layer 3] Analyzing raw text data with Gemini 2.5 Pro...")
+    print(f"🧠 [Layer 3] Analyzing raw text data with Gemini 2.5 flash...")
     
     sys_instruct = (
         "You are a Senior UPSC Mentor and elite answer-writing coach. "
