@@ -59,11 +59,6 @@
     "processed_at": "2026-05-31T21:49:59.951170+00:00",
     "status": "SUCCESS"
   },
-  "https://pib.gov.in/pressreleaseiframepage.aspx": {
-    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2267312",
-    "processed_at": "2026-05-31T21:50:28.252611+00:00",
-    "status": "SUCCESS"
-  },
   "https://www.thehindu.com/education/jee-advnced-2026-examination-results/article71047135.ece": {
     "original_url": "https://www.thehindu.com/education/jee-advnced-2026-examination-results/article71047135.ece",
     "processed_at": "2026-06-01T06:09:21.002905+00:00",
@@ -347,6 +342,696 @@
   "https://www.thehindu.com/education/why-is-cbse-s-evaluation-system-facing-flak/article71042223.ece": {
     "original_url": "https://www.thehindu.com/education/why-is-cbse-s-evaluation-system-facing-flak/article71042223.ece",
     "processed_at": "2026-06-01T18:25:12.182266+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/maharashtra/ed-raids-in-maharashtra-gujarat-in-salim-dola-drugs-case/article71051733.ece": {
+    "original_url": "https://www.thehindu.com/news/national/maharashtra/ed-raids-in-maharashtra-gujarat-in-salim-dola-drugs-case/article71051733.ece",
+    "processed_at": "2026-06-02T08:30:12.625313+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/does-so-called-fatherland-mean-more-than-his-motherland-congress-dig-at-pm-on-israeli-offensive-in-lebanon/article71051204.ece": {
+    "original_url": "https://www.thehindu.com/news/national/does-so-called-fatherland-mean-more-than-his-motherland-congress-dig-at-pm-on-israeli-offensive-in-lebanon/article71051204.ece",
+    "processed_at": "2026-06-02T08:30:38.434729+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/uttar-pradesh/suspicious-drone-over-meerut-cantonment-puts-security-agencies-on-alert-probe-on/article71051734.ece": {
+    "original_url": "https://www.thehindu.com/news/national/uttar-pradesh/suspicious-drone-over-meerut-cantonment-puts-security-agencies-on-alert-probe-on/article71051734.ece",
+    "processed_at": "2026-06-02T08:31:05.681986+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/assault-on-family-in-keralas-vagamon-rekindles-tourist-safety-concerns/article71051688.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/assault-on-family-in-keralas-vagamon-rekindles-tourist-safety-concerns/article71051688.ece",
+    "processed_at": "2026-06-02T08:31:31.054168+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-police-arrest-18-over-vandalism-during-rcb-ipl-win-celebrations/article71051432.ece": {
+    "original_url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-police-arrest-18-over-vandalism-during-rcb-ipl-win-celebrations/article71051432.ece",
+    "processed_at": "2026-06-02T08:31:59.867257+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-letter-to-jk-leaders-ladakh-like-united-outreachto-centre/article71051615.ece": {
+    "original_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-letter-to-jk-leaders-ladakh-like-united-outreachto-centre/article71051615.ece",
+    "processed_at": "2026-06-02T08:32:27.377388+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/congress-has-again-capitulated-to-muslim-league-on-vande-mataram-bjp/article71051452.ece": {
+    "original_url": "https://www.thehindu.com/news/national/congress-has-again-capitulated-to-muslim-league-on-vande-mataram-bjp/article71051452.ece",
+    "processed_at": "2026-06-02T08:32:55.344182+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/kerala-govt-to-provide-land-houses-for-seven-sc-families-facing-eviction-at-malayidomthuruth-says-cm-satheesan/article71051572.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/kerala-govt-to-provide-land-houses-for-seven-sc-families-facing-eviction-at-malayidomthuruth-says-cm-satheesan/article71051572.ece",
+    "processed_at": "2026-06-02T08:33:25.177406+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/tamil-nadu/should-people-die-till-tn-cm-vijay-completes-six-month-crash-course-on-governance-asks-aiadmk-edappadi-palaniswami/article71051568.ece": {
+    "original_url": "https://www.thehindu.com/news/national/tamil-nadu/should-people-die-till-tn-cm-vijay-completes-six-month-crash-course-on-governance-asks-aiadmk-edappadi-palaniswami/article71051568.ece",
+    "processed_at": "2026-06-02T08:33:54.328910+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/the-femtech-industrys-approach-to-pmos/article71049916.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/the-femtech-industrys-approach-to-pmos/article71049916.ece",
+    "processed_at": "2026-06-02T08:34:20.529550+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/vizag-data-centre-is-a-major-challenge/article71049927.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/vizag-data-centre-is-a-major-challenge/article71049927.ece",
+    "processed_at": "2026-06-02T08:34:47.689015+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/cjp-founder-abhijeet-dipke-interview-cockroach-janta-party-now-transitioning-into-a-movement/article71048435.ece": {
+    "original_url": "https://www.thehindu.com/news/national/cjp-founder-abhijeet-dipke-interview-cockroach-janta-party-now-transitioning-into-a-movement/article71048435.ece",
+    "processed_at": "2026-06-02T08:35:16.267098+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/orbital-rivalry-the-challenge-of-chinas-space-power/article71049597.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/orbital-rivalry-the-challenge-of-chinas-space-power/article71049597.ece",
+    "processed_at": "2026-06-02T08:35:43.945609+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/lead/imec-is-caught-between-commerce-and-geopolitics/article71049503.ece": {
+    "original_url": "https://www.thehindu.com/opinion/lead/imec-is-caught-between-commerce-and-geopolitics/article71049503.ece",
+    "processed_at": "2026-06-02T08:36:11.783085+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/editorial/joy-and-pain-on-the-nfhs-6-data/article71048891.ece": {
+    "original_url": "https://www.thehindu.com/opinion/editorial/joy-and-pain-on-the-nfhs-6-data/article71048891.ece",
+    "processed_at": "2026-06-02T08:36:39.138870+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/editorial/perfect-storm-on-illicit-liquor-in-india/article71048857.ece": {
+    "original_url": "https://www.thehindu.com/opinion/editorial/perfect-storm-on-illicit-liquor-in-india/article71048857.ece",
+    "processed_at": "2026-06-02T08:37:06.463482+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-economics/rbi-bank-deposits-savers-shift-to-fixed-deposits-10719804": {
+    "original_url": "https://indianexpress.com/article/explained/explained-economics/rbi-bank-deposits-savers-shift-to-fixed-deposits-10719804/",
+    "processed_at": "2026-06-02T08:37:34.827330+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-sci-tech/nvidia-rtx-spark-ai-pc-chip-apple-intel-10719709": {
+    "original_url": "https://indianexpress.com/article/explained/explained-sci-tech/nvidia-rtx-spark-ai-pc-chip-apple-intel-10719709/",
+    "processed_at": "2026-06-02T08:38:02.292716+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-ai/did-pope-leos-ai-encyclical-help-legitimise-anthropic-ahead-of-its-ipo-push-10719356": {
+    "original_url": "https://indianexpress.com/article/explained/explained-ai/did-pope-leos-ai-encyclical-help-legitimise-anthropic-ahead-of-its-ipo-push-10719356/",
+    "processed_at": "2026-06-02T08:38:33.584803+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-culture/sonny-rollins-to-lamar-jazz-rap-history-10718882": {
+    "original_url": "https://indianexpress.com/article/explained/explained-culture/sonny-rollins-to-lamar-jazz-rap-history-10718882/",
+    "processed_at": "2026-06-02T08:39:00.847252+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/c-raja-mohan-japan-military-doctrine-trump-america-and-xi-china-10719609": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/c-raja-mohan-japan-military-doctrine-trump-america-and-xi-china-10719609/",
+    "processed_at": "2026-06-02T08:39:29.639004+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-2-1986-bluestar-week-250-held-10719074": {
+    "original_url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-2-1986-bluestar-week-250-held-10719074/",
+    "processed_at": "2026-06-02T08:40:00.350382+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/in-volatile-world-uk-india-ties-can-be-a-game-changer-10719177": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/in-volatile-world-uk-india-ties-can-be-a-game-changer-10719177/",
+    "processed_at": "2026-06-02T08:40:27.197987+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/rcb-is-kohli-and-much-more-10719075": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/rcb-is-kohli-and-much-more-10719075/",
+    "processed_at": "2026-06-02T08:40:52.402870+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/bengal-post-poll-violence-is-a-disservice-to-mandate-10719071": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/bengal-post-poll-violence-is-a-disservice-to-mandate-10719071/",
+    "processed_at": "2026-06-02T08:41:27.411706+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/beyond-neet-paper-leak-expanding-supply-is-the-only-lasting-solution-10718676": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/beyond-neet-paper-leak-expanding-supply-is-the-only-lasting-solution-10718676/",
+    "processed_at": "2026-06-02T08:41:56.954948+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/no-role-for-any-third-parties-in-resolution-of-india-nepal-border-issue-mea/article71052660.ece": {
+    "original_url": "https://www.thehindu.com/news/national/no-role-for-any-third-parties-in-resolution-of-india-nepal-border-issue-mea/article71052660.ece",
+    "processed_at": "2026-06-02T16:47:19.979079+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/kerala-budget-on-june-19/article71054029.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/kerala-budget-on-june-19/article71054029.ece",
+    "processed_at": "2026-06-02T16:47:40.143816+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/scr-continues-in-key-role-as-south-coastal-railway-takes-off-as-18th-zone/article71052247.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/scr-continues-in-key-role-as-south-coastal-railway-takes-off-as-18th-zone/article71052247.ece",
+    "processed_at": "2026-06-02T16:48:07.459439+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/west-bengal/tmc-mamata-banerjee-kolkata-protest-post-poll-violence/article71052067.ece": {
+    "original_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mamata-banerjee-kolkata-protest-post-poll-violence/article71052067.ece",
+    "processed_at": "2026-06-02T16:48:28.029087+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/gujarat/former-gujarat-minister-and-eight-time-bjp-mla-yogesh-patel-dies-at-79/article71052766.ece": {
+    "original_url": "https://www.thehindu.com/news/national/gujarat/former-gujarat-minister-and-eight-time-bjp-mla-yogesh-patel-dies-at-79/article71052766.ece",
+    "processed_at": "2026-06-02T16:48:32.483731+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/two-held-for-attempted-extortion-at-knifepoint-in-kochi/article71052611.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/two-held-for-attempted-extortion-at-knifepoint-in-kochi/article71052611.ece",
+    "processed_at": "2026-06-02T16:48:37.494041+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/rahul-gandhi-lauds-unity-among-rajasthan-congress-chief-and-clp-leader/article71053920.ece": {
+    "original_url": "https://www.thehindu.com/news/national/rahul-gandhi-lauds-unity-among-rajasthan-congress-chief-and-clp-leader/article71053920.ece",
+    "processed_at": "2026-06-02T16:48:42.998228+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/elections/karnataka-assembly/second-and-third-year-convocation-held-at-nrupathunga-cluster-university/article71053542.ece": {
+    "original_url": "https://www.thehindu.com/elections/karnataka-assembly/second-and-third-year-convocation-held-at-nrupathunga-cluster-university/article71053542.ece",
+    "processed_at": "2026-06-02T16:48:47.021245+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/will-increasing-the-strength-of-the-sc-solve-the-pendency-problem/article71034635.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/will-increasing-the-strength-of-the-sc-solve-the-pendency-problem/article71034635.ece",
+    "processed_at": "2026-06-02T16:49:11.594960+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/lead/vande-mataram-its-six-stanzas-and-a-settled-question/article70625006.ece": {
+    "original_url": "https://www.thehindu.com/opinion/lead/vande-mataram-its-six-stanzas-and-a-settled-question/article70625006.ece",
+    "processed_at": "2026-06-02T16:49:56.566738+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/editorial/prison-outbreak-on-the-health-crisis-in-indias-prisons/article70750325.ece": {
+    "original_url": "https://www.thehindu.com/opinion/editorial/prison-outbreak-on-the-health-crisis-in-indias-prisons/article70750325.ece",
+    "processed_at": "2026-06-02T16:50:37.746420+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/should-the-neet-ug-be-decentralised/article71007572.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/should-the-neet-ug-be-decentralised/article71007572.ece",
+    "processed_at": "2026-06-02T16:51:22.530800+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/tana-bhagat-jharkhand-oppose-highway-10720826": {
+    "original_url": "https://indianexpress.com/article/explained/tana-bhagat-jharkhand-oppose-highway-10720826/",
+    "processed_at": "2026-06-02T16:52:09.635336+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-health/herbal-cigarettes-vs-regular-comparison-harmful-10720775": {
+    "original_url": "https://indianexpress.com/article/explained/explained-health/herbal-cigarettes-vs-regular-comparison-harmful-10720775/",
+    "processed_at": "2026-06-02T16:53:05.817639+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-health/nfhs-6-fact-sheet-missing-health-population-anaemia-data-10720634": {
+    "original_url": "https://indianexpress.com/article/explained/explained-health/nfhs-6-fact-sheet-missing-health-population-anaemia-data-10720634/",
+    "processed_at": "2026-06-02T16:53:52.129900+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/india-indonesia-reform-bits-regression-10720343": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/india-indonesia-reform-bits-regression-10720343/",
+    "processed_at": "2026-06-02T16:54:34.101556+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/the-left-and-the-people-are-now-speaking-different-languages-10720338": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/the-left-and-the-people-are-now-speaking-different-languages-10720338/",
+    "processed_at": "2026-06-02T16:55:17.452115+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/ordinance-parliament-womens-reservation-delimitation-10720301": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/ordinance-parliament-womens-reservation-delimitation-10720301/",
+    "processed_at": "2026-06-02T16:55:56.690645+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/dowry-deaths-twisha-sharma-india-forensic-autopsy-investigation-10720165": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/dowry-deaths-twisha-sharma-india-forensic-autopsy-investigation-10720165/",
+    "processed_at": "2026-06-02T16:56:39.131555+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/for-indias-china-challenge-a-lesson-from-history-10720129": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/for-indias-china-challenge-a-lesson-from-history-10720129/",
+    "processed_at": "2026-06-02T16:57:17.241507+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/twisha-sharma-and-the-mother-in-law-trope-in-india-10719947": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/twisha-sharma-and-the-mother-in-law-trope-in-india-10719947/",
+    "processed_at": "2026-06-02T16:57:56.298310+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/health-survey-calls-for-a-nutrition-rethink-10719072": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/health-survey-calls-for-a-nutrition-rethink-10719072/",
+    "processed_at": "2026-06-02T16:58:34.992616+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/editorial/change-in-arrangement-on-the-leadership-transition-in-karnataka/article71053056.ece": {
+    "original_url": "https://www.thehindu.com/opinion/editorial/change-in-arrangement-on-the-leadership-transition-in-karnataka/article71053056.ece",
+    "processed_at": "2026-06-03T15:19:17.650463+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-economics/us-section-301-tariffs-india-trade-deal-10722521": {
+    "original_url": "https://indianexpress.com/article/explained/explained-economics/us-section-301-tariffs-india-trade-deal-10722521/",
+    "processed_at": "2026-06-03T15:19:57.130893+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-global/china-pakistan-cpec-counter-india-10722312": {
+    "original_url": "https://indianexpress.com/article/explained/explained-global/china-pakistan-cpec-counter-india-10722312/",
+    "processed_at": "2026-06-03T15:20:38.400131+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-ai/trump-ai-executive-order-frontier-model-review-10721582": {
+    "original_url": "https://indianexpress.com/article/explained/explained-ai/trump-ai-executive-order-frontier-model-review-10721582/",
+    "processed_at": "2026-06-03T15:21:22.167911+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-ai/ai-detection-tools-granta-pangram-writing-controversy-10720880": {
+    "original_url": "https://indianexpress.com/article/explained/explained-ai/ai-detection-tools-granta-pangram-writing-controversy-10720880/",
+    "processed_at": "2026-06-03T15:22:05.647281+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-ai/meta-ai-support-bot-hack-instagram-prompt-injection-10722499": {
+    "original_url": "https://indianexpress.com/article/explained/explained-ai/meta-ai-support-bot-hack-instagram-prompt-injection-10722499/",
+    "processed_at": "2026-06-03T15:22:47.888327+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-history/june-3-declaration-mountbatten-plan-partition-1947-india-pakistan-10722084": {
+    "original_url": "https://indianexpress.com/article/explained/explained-history/june-3-declaration-mountbatten-plan-partition-1947-india-pakistan-10722084/",
+    "processed_at": "2026-06-03T15:23:29.346267+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-global/marco-rubio-congress-testimony-iran-israel-india-russia-takeaways-10722169": {
+    "original_url": "https://indianexpress.com/article/explained/explained-global/marco-rubio-congress-testimony-iran-israel-india-russia-takeaways-10722169/",
+    "processed_at": "2026-06-03T15:24:17.353820+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-global/beaufort-castle-israel-lebanon-history-conflict-10722009": {
+    "original_url": "https://indianexpress.com/article/explained/explained-global/beaufort-castle-israel-lebanon-history-conflict-10722009/",
+    "processed_at": "2026-06-03T15:24:58.406317+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/punjab-paddy-cultivation-near-record-groundwater-crisis-kharif-10721808": {
+    "original_url": "https://indianexpress.com/article/explained/punjab-paddy-cultivation-near-record-groundwater-crisis-kharif-10721808/",
+    "processed_at": "2026-06-03T15:25:39.439797+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-health/daraxonrasib-pancreatic-cancer-survival-trial-results-10721700": {
+    "original_url": "https://indianexpress.com/article/explained/explained-health/daraxonrasib-pancreatic-cancer-survival-trial-results-10721700/",
+    "processed_at": "2026-06-03T15:26:19.757645+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/exam-warriors-scams-systemic-failure-neet-cuetopinion-10722314": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/exam-warriors-scams-systemic-failure-neet-cuetopinion-10722314/",
+    "processed_at": "2026-06-03T15:27:00.244117+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/gujarat/gujarat-launches-massive-anti-infiltration-drive-362-detained-in-operation-delta-hunt/article71057532.ece": {
+    "original_url": "https://www.thehindu.com/news/national/gujarat/gujarat-launches-massive-anti-infiltration-drive-362-detained-in-operation-delta-hunt/article71057532.ece",
+    "processed_at": "2026-06-03T15:27:45.051247+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/education/beyond-qs-the-and-neet-too-rethinking-how-we-measure-university-excellence/article71053833.ece": {
+    "original_url": "https://www.thehindu.com/education/beyond-qs-the-and-neet-too-rethinking-how-we-measure-university-excellence/article71053833.ece",
+    "processed_at": "2026-06-03T15:28:30.265508+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/how-land-pooling-solves-acquisition-woes/article71054299.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/how-land-pooling-solves-acquisition-woes/article71054299.ece",
+    "processed_at": "2026-06-03T15:29:09.397792+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/when-maritime-casualties-become-political-theatre/article71054406.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/when-maritime-casualties-become-political-theatre/article71054406.ece",
+    "processed_at": "2026-06-03T15:29:54.149939+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/foreign-nationals-details-must-be-reported-under-new-law-hyderabad-police/article71057939.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/foreign-nationals-details-must-be-reported-under-new-law-hyderabad-police/article71057939.ece",
+    "processed_at": "2026-06-03T15:46:04.157135+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/andhra-pradesh/rtc-unions-oppose-move-to-hand-over-electric-buses-to-private-operators/article71057725.ece": {
+    "original_url": "https://www.thehindu.com/news/national/andhra-pradesh/rtc-unions-oppose-move-to-hand-over-electric-buses-to-private-operators/article71057725.ece",
+    "processed_at": "2026-06-03T15:46:45.824360+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/arunachal-pradesh/insult-to-sc-congress-on-arunachal-pradesh-cm-having-control-over-files-amid-cbi-probe/article71056280.ece": {
+    "original_url": "https://www.thehindu.com/news/national/arunachal-pradesh/insult-to-sc-congress-on-arunachal-pradesh-cm-having-control-over-files-amid-cbi-probe/article71056280.ece",
+    "processed_at": "2026-06-03T15:47:24.500652+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/cities/hyderabad/scr-sets-up-two-new-control-boards-for-expanded-sections/article71057351.ece": {
+    "original_url": "https://www.thehindu.com/news/cities/Hyderabad/scr-sets-up-two-new-control-boards-for-expanded-sections/article71057351.ece",
+    "processed_at": "2026-06-03T15:48:00.813730+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/kerala-agriculture-department-to-collaborate-with-general-education-department-to-form-kathiru-farming-clubs/article71057531.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/kerala-agriculture-department-to-collaborate-with-general-education-department-to-form-kathiru-farming-clubs/article71057531.ece",
+    "processed_at": "2026-06-03T15:48:41.275567+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/python-strays-into-hostel-building-rescued/article71057782.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/python-strays-into-hostel-building-rescued/article71057782.ece",
+    "processed_at": "2026-06-03T15:49:01.795366+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/karnataka/nimhans-mercuri-foundation-propose-national-centre-on-music-brain-and-mental-health-under-ilaiyaraajas-patronage/article71057944.ece": {
+    "original_url": "https://www.thehindu.com/news/national/karnataka/nimhans-mercuri-foundation-propose-national-centre-on-music-brain-and-mental-health-under-ilaiyaraajas-patronage/article71057944.ece",
+    "processed_at": "2026-06-03T15:49:26.522252+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/andhra-pradesh/ap-bjp-president-urges-cadres-to-prepare-for-local-body-polls/article71057743.ece": {
+    "original_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-bjp-president-urges-cadres-to-prepare-for-local-body-polls/article71057743.ece",
+    "processed_at": "2026-06-03T15:49:46.737883+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/lead/the-harvest-china-wants-is-one-india-cannot-afford/article71053820.ece": {
+    "original_url": "https://www.thehindu.com/opinion/lead/the-harvest-china-wants-is-one-india-cannot-afford/article71053820.ece",
+    "processed_at": "2026-06-03T15:50:11.768405+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/us-iran-negotiations-still-a-road-to-nowhere/article71053868.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/us-iran-negotiations-still-a-road-to-nowhere/article71053868.ece",
+    "processed_at": "2026-06-03T15:50:56.370988+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/editorial/brand-value-on-ipl-2026/article71053082.ece": {
+    "original_url": "https://www.thehindu.com/opinion/editorial/brand-value-on-ipl-2026/article71053082.ece",
+    "processed_at": "2026-06-03T15:51:17.232645+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/need-to-strengthen-existing-health-facilities-in-kerala/article71054285.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/need-to-strengthen-existing-health-facilities-in-kerala/article71054285.ece",
+    "processed_at": "2026-06-03T15:51:39.621474+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/malviya-nagar-fire-delhi-hauz-rani-class-divide-10722222": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/malviya-nagar-fire-delhi-hauz-rani-class-divide-10722222/",
+    "processed_at": "2026-06-03T15:52:24.946638+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/cannes-and-the-feminist-blind-spot-fashion-age-beauty-10721938": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/cannes-and-the-feminist-blind-spot-fashion-age-beauty-10721938/",
+    "processed_at": "2026-06-03T15:53:05.192048+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/india-indian-origin-companies-ceos-google-microsoft-tech-ai-10722004": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/india-indian-origin-companies-ceos-google-microsoft-tech-ai-10722004/",
+    "processed_at": "2026-06-03T15:53:45.775722+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/shashi-tharoor-writes-to-gen-z-indians-cockroach-janta-party-10721727": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/shashi-tharoor-writes-to-gen-z-indians-cockroach-janta-party-10721727/",
+    "processed_at": "2026-06-03T15:54:25.133453+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/an-indian-antibiotic-on-the-global-stage-10721063": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/an-indian-antibiotic-on-the-global-stage-10721063/",
+    "processed_at": "2026-06-03T15:55:09.231859+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/chirag-paswan-writes-from-ladakh-a-sea-buckthorn-parable-about-enterprise-10721053": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/chirag-paswan-writes-from-ladakh-a-sea-buckthorn-parable-about-enterprise-10721053/",
+    "processed_at": "2026-06-03T15:55:49.893521+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/in-and-as-suman-kalyanpur-10721052": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/in-and-as-suman-kalyanpur-10721052/",
+    "processed_at": "2026-06-03T15:56:09.711733+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268633": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268633",
+    "processed_at": "2026-06-03T15:56:34.362994+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268626": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268626",
+    "processed_at": "2026-06-03T15:57:10.226904+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268606": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268606",
+    "processed_at": "2026-06-03T15:57:50.398354+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268595": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268595",
+    "processed_at": "2026-06-03T15:58:25.669295+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268591": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268591",
+    "processed_at": "2026-06-03T15:59:07.357941+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268585": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268585",
+    "processed_at": "2026-06-03T15:59:44.733599+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268582": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268582",
+    "processed_at": "2026-06-03T16:00:26.525387+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268573": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268573",
+    "processed_at": "2026-06-03T16:01:08.460312+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2268547": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2268547",
+    "processed_at": "2026-06-03T16:01:49.258513+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/grandmother-two-grandchildren-killed-in-midnight-house-fire-after-gas-leak-explosion-in-miryalaguda/article71063804.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/grandmother-two-grandchildren-killed-in-midnight-house-fire-after-gas-leak-explosion-in-miryalaguda/article71063804.ece",
+    "processed_at": "2026-06-05T05:20:45.422516+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-1-live-updates-june-5/article71061027.ece": {
+    "original_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-1-live-updates-june-5/article71061027.ece",
+    "processed_at": "2026-06-05T05:21:13.001576+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/karnataka/ramalinga-reddy-resigns-as-karnataka-minister-unhappy-with-portfolio-allocation/article71063999.ece": {
+    "original_url": "https://www.thehindu.com/news/national/karnataka/ramalinga-reddy-resigns-as-karnataka-minister-unhappy-with-portfolio-allocation/article71063999.ece",
+    "processed_at": "2026-06-05T05:21:32.761731+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/how-this-tree-man-from-kerala-has-planted-over-20000-trees-in-26-years/article71061945.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/how-this-tree-man-from-kerala-has-planted-over-20000-trees-in-26-years/article71061945.ece",
+    "processed_at": "2026-06-05T05:21:59.399986+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/burglar-involved-in-over-60-cases-turns-out-to-be-robinhood-figure-for-a-village-in-up/article71061251.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/burglar-involved-in-over-60-cases-turns-out-to-be-robinhood-figure-for-a-village-in-up/article71061251.ece",
+    "processed_at": "2026-06-05T05:22:20.743498+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/sci-tech/energy-and-environment/modi-government-dismantling-forests-weakening-environmental-framework-says-kharge/article71064072.ece": {
+    "original_url": "https://www.thehindu.com/sci-tech/energy-and-environment/modi-government-dismantling-forests-weakening-environmental-framework-says-kharge/article71064072.ece",
+    "processed_at": "2026-06-05T05:39:19.951661+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-criticises-supreme-court-for-ignoring-its-own-observations-on-early-disposal-of-election-disputes/article71063828.ece": {
+    "original_url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-criticises-supreme-court-for-ignoring-its-own-observations-on-early-disposal-of-election-disputes/article71063828.ece",
+    "processed_at": "2026-06-05T05:39:59.354823+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/putin-calls-india-reliable-partner-hits-out-at-western-interference/article71062722.ece": {
+    "original_url": "https://www.thehindu.com/news/national/putin-calls-india-reliable-partner-hits-out-at-western-interference/article71062722.ece",
+    "processed_at": "2026-06-05T05:40:33.588185+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/growing-cracks-in-telanganas-granite-trade/article71062590.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/growing-cracks-in-telanganas-granite-trade/article71062590.ece",
+    "processed_at": "2026-06-05T05:41:20.689014+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/safeguards-sought-against-misuse-of-menstrual-leave-in-schools/article71061421.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/safeguards-sought-against-misuse-of-menstrual-leave-in-schools/article71061421.ece",
+    "processed_at": "2026-06-05T05:41:57.423342+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/gujarat/ahmedabad-water-contamination-7-remain-hospitalised-union-minister-shah-reviews-situation/article71061391.ece": {
+    "original_url": "https://www.thehindu.com/news/national/gujarat/ahmedabad-water-contamination-7-remain-hospitalised-union-minister-shah-reviews-situation/article71061391.ece",
+    "processed_at": "2026-06-05T05:42:42.600141+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/books/indira-jaising-senior-advocate-the-constitution-is-my-home/article71047515.ece": {
+    "original_url": "https://www.thehindu.com/books/indira-jaising-senior-advocate-the-constitution-is-my-home/article71047515.ece",
+    "processed_at": "2026-06-05T05:43:33.172888+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/when-mangroves-do-what-seawalls-cannot/article71061592.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/when-mangroves-do-what-seawalls-cannot/article71061592.ece",
+    "processed_at": "2026-06-05T05:44:12.940134+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/lead/funding-indias-climate-future-the-trillion-dollar-question/article71062224.ece": {
+    "original_url": "https://www.thehindu.com/opinion/lead/funding-indias-climate-future-the-trillion-dollar-question/article71062224.ece",
+    "processed_at": "2026-06-05T05:44:54.495041+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/editorial/fire-and-furore-on-fire-accidents-in-india/article71061600.ece": {
+    "original_url": "https://www.thehindu.com/opinion/editorial/fire-and-furore-on-fire-accidents-in-india/article71061600.ece",
+    "processed_at": "2026-06-05T05:45:34.690316+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/the-great-nicobar-project-and-a-ministry-in-knots/article70280994.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/the-great-nicobar-project-and-a-ministry-in-knots/article70280994.ece",
+    "processed_at": "2026-06-05T05:46:18.814613+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/lead/the-us-ends-russia-oil-waiver-implications-for-india/article71018329.ece": {
+    "original_url": "https://www.thehindu.com/opinion/lead/the-us-ends-russia-oil-waiver-implications-for-india/article71018329.ece",
+    "processed_at": "2026-06-05T05:46:59.257479+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/old-ties-new-kathmandu-what-india-now-needs-to-negotiate-with-nepal-10724634": {
+    "original_url": "https://indianexpress.com/article/explained/old-ties-new-kathmandu-what-india-now-needs-to-negotiate-with-nepal-10724634/",
+    "processed_at": "2026-06-05T05:47:40.859603+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-economics/rajesh-mehta-sebi-rajesh-exports-allegations-10724490": {
+    "original_url": "https://indianexpress.com/article/explained/explained-economics/rajesh-mehta-sebi-rajesh-exports-allegations-10724490/",
+    "processed_at": "2026-06-05T05:48:20.418066+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-economics/jet-fuel-price-freeze-scheme-explained-airfares-airlines-india-10724396": {
+    "original_url": "https://indianexpress.com/article/explained/explained-economics/jet-fuel-price-freeze-scheme-explained-airfares-airlines-india-10724396/",
+    "processed_at": "2026-06-05T05:49:04.234066+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/gujarat-new-police-range-pakistan-border-security-impact-10724394": {
+    "original_url": "https://indianexpress.com/article/explained/gujarat-new-police-range-pakistan-border-security-impact-10724394/",
+    "processed_at": "2026-06-05T05:49:40.327217+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269132": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269132",
+    "processed_at": "2026-06-05T05:49:48.724407+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-health/malviya-nagar-fire-cpr-how-to-perform-guide-10724022": {
+    "original_url": "https://indianexpress.com/article/explained/explained-health/malviya-nagar-fire-cpr-how-to-perform-guide-10724022/",
+    "processed_at": "2026-06-05T05:50:18.170417+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269123": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269123",
+    "processed_at": "2026-06-05T05:50:42.948732+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-law/can-insolvency-proceedings-shield-you-in-a-cheque-bounce-case-the-legal-conflict-explained-10723998": {
+    "original_url": "https://indianexpress.com/article/explained/explained-law/can-insolvency-proceedings-shield-you-in-a-cheque-bounce-case-the-legal-conflict-explained-10723998/",
+    "processed_at": "2026-06-05T05:51:01.240799+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269104": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269104",
+    "processed_at": "2026-06-05T05:51:20.170550+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269101": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269101",
+    "processed_at": "2026-06-05T05:51:54.412159+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/explained/explained-global/us-house-voted-trump-iran-war-war-powers-resolution-10723571": {
+    "original_url": "https://indianexpress.com/article/explained/explained-global/us-house-voted-trump-iran-war-war-powers-resolution-10723571/",
+    "processed_at": "2026-06-05T05:51:45.813127+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/my-father-kumar-roy-was-at-home-on-stage-10724622": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/my-father-kumar-roy-was-at-home-on-stage-10724622/",
+    "processed_at": "2026-06-05T05:52:07.994428+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/suryakumar-sooryavanshi-and-a-difficult-balance-10724619": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/suryakumar-sooryavanshi-and-a-difficult-balance-10724619/",
+    "processed_at": "2026-06-05T05:52:14.164453+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269100": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269100",
+    "processed_at": "2026-06-05T05:52:29.054489+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/magnifica-humanitas-and-manav-creating-a-shared-vision-for-ai-10724620": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/magnifica-humanitas-and-manav-creating-a-shared-vision-for-ai-10724620/",
+    "processed_at": "2026-06-05T05:52:38.439871+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269096": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269096",
+    "processed_at": "2026-06-05T05:53:05.908498+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/columns/this-world-environment-day-lets-broaden-the-conversation-10724564": {
+    "original_url": "https://indianexpress.com/article/opinion/columns/this-world-environment-day-lets-broaden-the-conversation-10724564/",
+    "processed_at": "2026-06-05T05:53:19.786582+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269084": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269084",
+    "processed_at": "2026-06-05T05:53:40.566926+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/trumps-tariff-wall-still-stands-india-must-find-its-way-10724632": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/trumps-tariff-wall-still-stands-india-must-find-its-way-10724632/",
+    "processed_at": "2026-06-05T05:53:56.897412+00:00",
+    "status": "SUCCESS"
+  },
+  "https://pib.gov.in/pressreleaseiframepage.aspx?PRID=2269082": {
+    "original_url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2269082",
+    "processed_at": "2026-06-05T05:54:18.853328+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-5-1986-bansi-lal-replaces-bhajan-lal-10724633": {
+    "original_url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-5-1986-bansi-lal-replaces-bhajan-lal-10724633/",
+    "processed_at": "2026-06-05T05:54:41.330796+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/telangana/government-doctors-protest-across-telangana-over-transfer-process-allege-violations-of-go-38/article71064061.ece": {
+    "original_url": "https://www.thehindu.com/news/national/telangana/government-doctors-protest-across-telangana-over-transfer-process-allege-violations-of-go-38/article71064061.ece",
+    "processed_at": "2026-06-05T05:54:58.782857+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/kerala/kerala-hc-rejects-cmrl-appeal-allows-ed-to-continue-probe-linked-to-pinarayis-daughter-t-veena/article71064101.ece": {
+    "original_url": "https://www.thehindu.com/news/national/kerala/kerala-hc-rejects-cmrl-appeal-allows-ed-to-continue-probe-linked-to-pinarayis-daughter-t-veena/article71064101.ece",
+    "processed_at": "2026-06-05T05:54:58.954225+00:00",
+    "status": "SUCCESS"
+  },
+  "https://indianexpress.com/article/opinion/editorials/marjane-satrapi-refused-to-be-drawn-in-black-and-white-10724416": {
+    "original_url": "https://indianexpress.com/article/opinion/editorials/marjane-satrapi-refused-to-be-drawn-in-black-and-white-10724416/",
+    "processed_at": "2026-06-05T05:55:04.724701+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-toxic-stormwater-drains-threaten-ecosystem/article71061202.ece": {
+    "original_url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnams-toxic-stormwater-drains-threaten-ecosystem/article71061202.ece",
+    "processed_at": "2026-06-05T05:55:43.739589+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/sci-tech/energy-and-environment/world-environment-day-2026-on-june-5/article71063922.ece": {
+    "original_url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-environment-day-2026-on-june-5/article71063922.ece",
+    "processed_at": "2026-06-05T05:56:19.145051+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/when-el-nino-becomes-an-economic-crisis/article71060937.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/when-el-nino-becomes-an-economic-crisis/article71060937.ece",
+    "processed_at": "2026-06-05T05:56:56.603437+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/a-framework-for-climate-and-development-capital/article71060869.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/a-framework-for-climate-and-development-capital/article71060869.ece",
+    "processed_at": "2026-06-05T05:57:36.139780+00:00",
+    "status": "SUCCESS"
+  },
+  "https://www.thehindu.com/opinion/op-ed/a-national-environmental-survey-whose-time-came/article71062271.ece": {
+    "original_url": "https://www.thehindu.com/opinion/op-ed/a-national-environmental-survey-whose-time-came/article71062271.ece",
+    "processed_at": "2026-06-05T05:58:15.639899+00:00",
     "status": "SUCCESS"
   }
 }

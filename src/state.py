@@ -7,18 +7,20 @@ HISTORY_FILE = "history.json"
 
 def sanitize_url(url: str) -> str:
     """
-    Cleans the URL by converting to lowercase, removing tracking parameters (?), 
-    stripping anchor fragments (#), and removing trailing slashes.
+    Cleans the URL by converting to lowercase and stripping anchor fragments (#), 
+    but retains query parameters (?) which are essential for sites like PIB.
     """
     parsed = urlparse(url)
     
-    # Reconstruct URL keeping only scheme, netloc, and path. 
-    # Force netloc and path to lowercase for exact matching.
+    # Reconstruct URL keeping scheme, netloc, path, and query.
+    # We still drop the fragment (the 6th item).
     clean_url = urlunparse((
         parsed.scheme.lower(), 
         parsed.netloc.lower(), 
         parsed.path.lower(), 
-        '', '', ''
+        parsed.params, 
+        parsed.query,  # <--- WE KEEP THE QUERY STRING NOW
+        ''             # <--- Drop only the # fragment
     ))
     
     return clean_url.rstrip('/')

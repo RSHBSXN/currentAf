@@ -11,11 +11,9 @@ from dateutil import parser
 
 # High-yield UPSC feeds
 UPSC_FEEDS = {
+    "PIB - National (English)": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1&reg=1",
     "The Hindu - National": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "The Hindu - Editorial": "https://www.thehindu.com/opinion/feeder/default.rss",
-    "Indian Express - Explained": "https://indianexpress.com/section/explained/feed/",
-    "Indian Express - Opinion": "https://indianexpress.com/section/opinion/feed/",
-    "PIB - National (English)": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1&reg=1"
+    "The Hindu - Editorial": "https://www.thehindu.com/opinion/feeder/default.rss"
 }
 
 BROWSER_HEADERS = {

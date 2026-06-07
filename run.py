@@ -55,7 +55,17 @@ def run_daily_sync():
                 upsc_payload = analyze_article(extracted_data["text"], url)
                 
                 if upsc_payload:
-                    youtube_url = generate_youtube_search_url(upsc_payload['headline'])
+                    # 👇 THE GATEKEEPER CHECK 👇
+                    if not upsc_payload.get('is_upsc_relevant', True):
+                        print(f"🗑️ [Gatekeeper] Dropping irrelevant article: {article['title']}")
+                        mark_processed(url)  # Save to history so we don't re-process this junk tomorrow
+                        skip_count += 1
+                        continue             # Skip Notion completely and go to the next article
+                    # 👆 ======================= 👆
+
+                    # Safely get the headline now that we know it's a relevant article
+                    headline_text = upsc_payload.get('headline') or 'Untitled UPSC Topic'
+                    youtube_url = generate_youtube_search_url(headline_text)
                     
                     # --- ATTACH EXACT RSS PUBLISH DATE ---
                     # Bypasses LLM date estimation completely for 100% accuracy
@@ -68,7 +78,7 @@ def run_daily_sync():
                         
                         # 2. ONLY if no errors, mark as processed
                         mark_processed(url)
-                        print(f"✅ Success & Logged: {upsc_payload['headline']}")
+                        print(f"✅ Success & Logged: {headline_text}")
                         success_count += 1
                         
                     except Exception as e:
